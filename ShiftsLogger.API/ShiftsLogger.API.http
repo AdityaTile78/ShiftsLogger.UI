@@ -1,0 +1,12 @@
+@ShiftsLogger.API_HostAddress = h@ShiftsLogger.API_HostAddress = https://localhost:5001
+
+  
+
+###
+# ShiftsLogger.API
+
+# @ShiftsLogger.API_HostAddress
+# @ShiftsLogger.API_HostAddress/swagger/index.html
+# @ShiftsLogger.API_HostAddress/swagger/v1/swagger.json
+# @ShiftsLogger.API_HostAddress/swagger/v1/swagger.json#/paths/~1api~1shifts~1{shiftId}~1clockin/post
+
